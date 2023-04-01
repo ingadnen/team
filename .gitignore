@@ -1,0 +1,20 @@
+# git folder
+.git
+
+# npm
+
+npm-debug.log
+
+# package
+
+
+# mac
+.DS_Store
+
+# cache
+.cache
+
+# personal env
+
+docker-push.sh
+docker-compose.yml
